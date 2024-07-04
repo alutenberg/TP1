@@ -1,6 +1,6 @@
 #include "mbed.h"
 
-/* Comentario de ejemplo */
+/* Comentario de ejemplo amable */
 
 int main()
 {
