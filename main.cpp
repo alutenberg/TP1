@@ -1,5 +1,7 @@
 #include "mbed.h"
 
+/* Comentario de ejemplo */
+
 int main()
 {
     DigitalIn B1_USER(BUTTON1);
